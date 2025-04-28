@@ -1,4 +1,4 @@
-# RISC-V Single Cycle Core Processor
+# Pipelined RISC-V Processor
 In this repository of RISC-V, you will get to know the main modules of the MIPS Architecture with their codes, testbench and the design using the Verilog Language only. The purpose of this repository is to make an understable and easy-to-go code for the complex project i.e., RISC-V, where anyone with the basic knowledge on the Verilog can create.
 
 ## Software Used  
